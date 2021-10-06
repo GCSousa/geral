@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628053139 source:c:\users\guilherme\desktop\ed\lab01\tad_data\data.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1628052999 c:\users\guilherme\desktop\ed\lab01\tad_data\data.h
+
+1628053531 source:c:\users\guilherme\desktop\ed\lab01\tad_data\main.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
